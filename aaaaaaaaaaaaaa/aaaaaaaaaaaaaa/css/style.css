@@ -1,0 +1,46 @@
+.footer {
+  color:#FFF;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 30px;
+  background-color: #6BBAD8;
+  text-align:center;
+  margin-top:50px;
+ border-color:#128DC8;
+}
+.text-muted {
+  margin: 5px 0;
+	color:#FFF;
+}
+.navbar-default {
+	background:#6BBAD8;
+	border-color:#128DC8;
+}
+.navbar-brand{
+	color:#FFF !important;
+}
+
+.navbar-brand:hover{
+	color:#000 !important;
+}
+.navbar-default .navbar-nav>li>a {
+	color:#FFF !important;
+}
+.navbar-default .navbar-nav>li>a"hover {
+	color:#000 !important;
+}
+.margin{
+	margin-bottom:50px;
+}
+.navbar-default .navbar-nav>.open>a{
+	background-color:#128DC8 !important;
+}
+.jumbotron{
+background:#FFF !important;	
+}
+.allinfo {
+border-left:3px solid  #128DC8;
+	margin-bottom:50px;
+}
